@@ -1,16 +1,20 @@
-# business_app
+# business_card_app
 
-A new Flutter project.
+تطبيق Flutter بسيط بيعرض كارت تعريفي (Business Card) بشكل أنيق.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ده مشروع مبدأي معمول بـ Flutter، تقدر تبدأ منه لو لسه جديد في فلاتر.
 
-A few resources to get you started if this is your first Flutter project:
+### مفيد لو لسه بتتعلم Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### توثيق ودروس:
+
+- [Flutter Documentation](https://docs.flutter.dev/) – فيه شروحات، أمثلة، ودليل API كامل.
+
+---
+
+> تم إنشاؤه ضمن تجربة تعلم Flutter 🚀
