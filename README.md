@@ -6,14 +6,9 @@
 
 ده مشروع مبدأي معمول بـ Flutter، تقدر تبدأ منه لو لسه جديد في فلاتر.
 
-### مفيد لو لسه بتتعلم Flutter:
+### مفيد لو لسه بتتعلم Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-### توثيق ودروس:
-
-- [Flutter Documentation](https://docs.flutter.dev/) – فيه شروحات، أمثلة، ودليل API كامل.
+### توثيق ودروس
 
 ---
 
